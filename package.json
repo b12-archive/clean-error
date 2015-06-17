@@ -1,6 +1,6 @@
-{ "name": "…"
+{ "name": "clean-error"
 , "version": "0.0.0-work-in-progress"
-, "description": "…"
+, "description": "Never worry about catching errors again."
 
 , "dependencies":
   {}
@@ -34,7 +34,16 @@
 
 , "license": "MIT"
 , "keywords":
-  [ "…"
+  [ "error"
+  , "errors"
+  , "exception"
+  , "handling"
+  , "light"
+  , "lightweight"
+  , "pretty"
+  , "readable"
+  , "human"
+  , "minimal"
   ]
 , "contributors":
   [ "Tomek Wiszniewski <t.wiszniewski@gmail.com>"
@@ -42,6 +51,6 @@
 , "author": "© 2015 Studio B12 GmbH (http://studio-b12.de)"
 , "repository":
   { "type": "git"
-  , "url": "git@github.com:studio-b12/….git"
+  , "url": "git@github.com:studio-b12/clean-error.git"
   }
 }
