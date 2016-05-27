@@ -1,3 +1,7 @@
+**This package is deprecated!** Please use [tiny-error](https://git.io/tiny-error) instead.
+
+***
+
 [![Coveralls – test coverage
 ](https://img.shields.io/coveralls/studio-b12/clean-error.svg?style=flat-square)
 ](https://coveralls.io/r/studio-b12/clean-error)
